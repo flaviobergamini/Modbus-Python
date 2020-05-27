@@ -1,4 +1,4 @@
-Script para execução dos testes do projeto MSF.
+Script para comunicação com dispositivos Modbus.
 
 Dependencias:
     - 
